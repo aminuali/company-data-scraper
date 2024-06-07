@@ -10,8 +10,11 @@ This Python script automates the process of scraping company data from the Y Com
 This script combines Selenium for dynamic content loading and BeautifulSoup for HTML parsing to scrape company data from Y Combinator's website.
 # Script Features
 •	Selenium WebDriver: Utilizes Selenium WebDriver to interact with the website and load dynamic content.
+
 •	BeautifulSoup Parsing: Parses HTML content using BeautifulSoup to extract specific company information.
+
 •	Data Extraction: Extracts company titles, addresses, descriptions, and tags.
+
 •	CSV Output: Saves the scraped data to a CSV file.
 # Note
 •	Adjust pages variable to scrape more or fewer pages.
