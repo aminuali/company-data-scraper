@@ -20,3 +20,6 @@ This script combines Selenium for dynamic content loading and BeautifulSoup for 
 •	Adjust pages variable to scrape more or fewer pages.
 •	Customize as needed for your scraping requirements by changing the url and the specific html elements
 
+# Script Sample Output
+![image](https://github.com/aminuali/company-data-scraper/assets/56072102/9a9d4739-1463-407d-b212-b0bf5b6356ad)
+
